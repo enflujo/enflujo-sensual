@@ -13,9 +13,9 @@ Nos ocupamos haciendo, sintiendo y pensando interfaces web [placenteras](https:/
 
 <br />
 <br />
-<center> 
-<img src="https://media.giphy.com/media/gX8F8kMRTx44M/giphy.gif" width="100"/> 
-</center> 
+<p align="center">
+<img src="https://media.giphy.com/media/gX8F8kMRTx44M/giphy.gif" width="100" />
+</p>
 <br />
 <br />
 
@@ -23,8 +23,8 @@ Al mismo tiempo, entendemos internet como una experiencia estética y por eso no
 
 <br />
 <br />
-<center> 
+<p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514897/9116/excuseme.gif?1643514897" width="80"/> 
-</center>
+</p>
 <br />
 <br />
